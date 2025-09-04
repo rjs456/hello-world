@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+1. Ryan Sukhai
+2. Xilinx Zynq ARM Cortex-9
+3. Chicken
