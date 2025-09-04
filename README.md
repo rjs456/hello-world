@@ -1,4 +1,4 @@
 # hello-world
-Ryan Sukhai
-Xilinx Zynq ARM Cortex-9
-Chicken
+1. Ryan Sukhai
+2. Xilinx Zynq ARM Cortex-9
+3. Chicken
